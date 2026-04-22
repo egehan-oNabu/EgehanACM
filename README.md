@@ -97,7 +97,7 @@ oNabu is an AI-powered Agile Coaching platform that integrates across your entir
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/egehan-karakose/egehan-karakose/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/egehan-oNabu/EgehanACM/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 > **Setup:** Add this GitHub Action to generate the snake automatically → [Platane/snk](https://github.com/Platane/snk)
