@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/egehan-karak%C3%B6se-b05942171/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://onabu.io">
+  <a href="https://onabu.ai">
     <img src="https://img.shields.io/badge/oNabu.io-Visit-6C47FF?style=for-the-badge"/>
   </a>
   <a href="https://twitter.com/egehankarakose">
@@ -29,8 +29,8 @@
 oNabu is an AI-powered Agile Coaching platform that integrates across your entire dev stack — Slack, Jira, Google Workspace, Microsoft Teams — and surfaces insights your team can actually act on.
 
 <p align="center">
-  <a href="https://onabu.io">
-    <img src="https://img.shields.io/badge/-→%20onabu.io-6C47FF?style=for-the-badge" />
+  <a href="https://onabu.ai">
+    <img src="https://img.shields.io/badge/-→%20onabu.ai-6C47FF?style=for-the-badge" />
   </a>
 </p>
 
@@ -120,7 +120,7 @@ Building in the AI × DevTools × Agile space? Always open to conversations abou
   <a href="https://www.linkedin.com/in/egehan-karak%C3%B6se-b05942171/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://onabu.io">
+  <a href="https://onabu.ai">
     <img src="https://img.shields.io/badge/oNabu.io-6C47FF?style=for-the-badge"/>
   </a>
 </p>
