@@ -6,11 +6,11 @@
 <h1 align="center">👋 Hey, I'm Egehan</h1>
 <h3 align="center">AI Builder • Co-founder • System Designer</h3>
 
-<p align="center">
+[<p align="center">
   <a href="https://github.com/egehan-karakose">
     <img src="https://komarev.com/ghpvc/?username=egehan-karakose&label=Profile%20views&color=0e75b6&style=flat" />
   </a>
-</p>
+</p>](https://capsule-render.vercel.app/api?type=soft&height=300&color=gradient&text=Egehan%20Karakose&animation=fadeIn)
 
 ---
 
