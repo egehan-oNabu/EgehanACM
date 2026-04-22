@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="https://onabu.ai">
-    <img src="https://img.shields.io/badge/oNabu.io-Visit-6C47FF?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/oNabu.ai-Visit-6C47FF?style=for-the-badge"/>
   </a>
   <a href="https://twitter.com/egehankarakose">
     <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
@@ -121,6 +121,6 @@ Building in the AI × DevTools × Agile space? Always open to conversations abou
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://onabu.ai">
-    <img src="https://img.shields.io/badge/oNabu.io-6C47FF?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/oNabu.ai-6C47FF?style=for-the-badge"/>
   </a>
 </p>
